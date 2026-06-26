@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": "PRD-001",
+    "name": "Aero Runner Sneakers",
+    "category": "shoes",
+    "price": 79.99,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.5,
+    "description": "Lightweight running shoes with breathable mesh upper."
+  },
+  {
+    "product_id": "PRD-002",
+    "name": "Trail Blazer Hiking Boots",
+    "category": "shoes",
+    "price": 129.99,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.7,
+    "description": "Waterproof hiking boots with reinforced ankle support."
+  },
+  {
+    "product_id": "PRD-003",
+    "name": "UrbanStep Casual Sneakers",
+    "category": "shoes",
+    "price": 54.99,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.2,
+    "description": "Affordable everyday casual sneakers, great for walking."
+  },
+  {
+    "product_id": "PRD-004",
+    "name": "ProFit Training Shoes",
+    "category": "shoes",
+    "price": 95.50,
+    "currency": "USD",
+    "in_stock": false,
+    "rating": 4.4,
+    "description": "Cross-training shoes with extra cushioning, currently out of stock."
+  },
+  {
+    "product_id": "PRD-005",
+    "name": "ClassicLeather Oxford Shoes",
+    "category": "shoes",
+    "price": 149.00,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.6,
+    "description": "Premium leather formal shoes."
+  },
+  {
+    "product_id": "PRD-101",
+    "name": "WaveSound Bluetooth Headphones",
+    "category": "electronics",
+    "price": 59.99,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.3,
+    "description": "Over-ear wireless headphones with 30hr battery life."
+  },
+  {
+    "product_id": "PRD-102",
+    "name": "PulseFit Smartwatch",
+    "category": "electronics",
+    "price": 89.99,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.1,
+    "description": "Fitness tracking smartwatch with heart-rate monitor."
+  },
+  {
+    "product_id": "PRD-103",
+    "name": "EchoBeam Portable Speaker",
+    "category": "electronics",
+    "price": 39.99,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.0,
+    "description": "Compact waterproof Bluetooth speaker."
+  },
+  {
+    "product_id": "PRD-201",
+    "name": "CozyKnit Wool Sweater",
+    "category": "apparel",
+    "price": 45.00,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.4,
+    "description": "Soft wool-blend sweater for winter."
+  },
+  {
+    "product_id": "PRD-202",
+    "name": "RainGuard Packable Jacket",
+    "category": "apparel",
+    "price": 65.00,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.5,
+    "description": "Lightweight packable rain jacket."
+  },
+  {
+    "product_id": "PRD-301",
+    "name": "BrewMaster Coffee Grinder",
+    "category": "home",
+    "price": 34.99,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.6,
+    "description": "Electric burr coffee grinder for home use."
+  },
+  {
+    "product_id": "PRD-302",
+    "name": "GlowLux Desk Lamp",
+    "category": "home",
+    "price": 24.99,
+    "currency": "USD",
+    "in_stock": true,
+    "rating": 4.2,
+    "description": "Adjustable LED desk lamp with 3 brightness levels."
+  }
+]

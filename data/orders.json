@@ -1,0 +1,79 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer_name": "Asha Verma",
+    "items": [
+      {"product_id": "PRD-005", "name": "ClassicLeather Oxford Shoes", "quantity": 1, "price": 149.00}
+    ],
+    "status": "delivered",
+    "order_date": "2026-06-01",
+    "delivery_date": "2026-06-05",
+    "tracking_number": "TRK-88231",
+    "shipping_address": "Jodhpur, Rajasthan, IN"
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer_name": "Rohan Mehta",
+    "items": [
+      {"product_id": "PRD-001", "name": "Aero Runner Sneakers", "quantity": 1, "price": 79.99}
+    ],
+    "status": "in_transit",
+    "order_date": "2026-06-15",
+    "delivery_date": null,
+    "tracking_number": "TRK-88242",
+    "shipping_address": "Pune, Maharashtra, IN",
+    "estimated_delivery": "2026-06-26"
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer_name": "Sara Khan",
+    "items": [
+      {"product_id": "PRD-101", "name": "WaveSound Bluetooth Headphones", "quantity": 1, "price": 59.99},
+      {"product_id": "PRD-103", "name": "EchoBeam Portable Speaker", "quantity": 1, "price": 39.99}
+    ],
+    "status": "processing",
+    "order_date": "2026-06-20",
+    "delivery_date": null,
+    "tracking_number": null,
+    "shipping_address": "Delhi, IN",
+    "estimated_delivery": "2026-06-29"
+  },
+  {
+    "order_id": "ORD-1004",
+    "customer_name": "Vikram Singh",
+    "items": [
+      {"product_id": "PRD-004", "name": "ProFit Training Shoes", "quantity": 1, "price": 95.50}
+    ],
+    "status": "cancelled",
+    "order_date": "2026-06-10",
+    "delivery_date": null,
+    "tracking_number": null,
+    "shipping_address": "Jaipur, Rajasthan, IN",
+    "cancellation_reason": "Item went out of stock before shipment."
+  },
+  {
+    "order_id": "ORD-1005",
+    "customer_name": "Priya Nair",
+    "items": [
+      {"product_id": "PRD-002", "name": "Trail Blazer Hiking Boots", "quantity": 1, "price": 129.99}
+    ],
+    "status": "delivered",
+    "order_date": "2026-05-28",
+    "delivery_date": "2026-06-02",
+    "tracking_number": "TRK-88190",
+    "shipping_address": "Bengaluru, Karnataka, IN"
+  },
+  {
+    "order_id": "ORD-1006",
+    "customer_name": "Karan Patel",
+    "items": [
+      {"product_id": "PRD-201", "name": "CozyKnit Wool Sweater", "quantity": 2, "price": 45.00}
+    ],
+    "status": "in_transit",
+    "order_date": "2026-06-18",
+    "delivery_date": null,
+    "tracking_number": "TRK-88260",
+    "shipping_address": "Lucknow, Uttar Pradesh, IN",
+    "estimated_delivery": "2026-06-27"
+  }
+]
