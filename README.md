@@ -4,7 +4,8 @@ An AI agent that answers customer questions for an online store by deciding whic
 
 🔗 Live demo: https://agentic-ai-store-assistant-rzsxk9sn8jlixcyevsyvdt.streamlit.app/
 📦 Repo: https://github.com/ritika312006/agentic-ai-store-assistant
-
+📢 See: "sample_io.md" for a full set of example questions and the agent's actual responses.
+📢 See: "DESIGN_DOC.md" for the full write-up of architecture choices and trade-offs.
 
 What it does
 
@@ -85,10 +86,4 @@ bashpython -m pytest tests/test_agent.py -v
 
 20 tests covering tool correctness, error handling, tool chaining, and fallback behavior.
 
-Sample inputs & outputs
 
-See sample_io.md for a full set of example questions and the agent's actual responses.
-
-Design decisions
-
-See DESIGN_DOC.md for the full write-up of architecture choices and trade-offs.
