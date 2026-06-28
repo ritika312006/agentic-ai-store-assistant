@@ -3,8 +3,11 @@
 An AI agent that answers customer questions for an online store by deciding which tools to use, chaining them when needed, and replying in a clear, customer-friendly way — never fabricating data.
 
 🔗 Live demo: https://agentic-ai-store-assistant-rzsxk9sn8jlixcyevsyvdt.streamlit.app/
+
 📦 Repo: https://github.com/ritika312006/agentic-ai-store-assistant
+
 📢 See: "sample_io.md" for a full set of example questions and the agent's actual responses.
+
 📢 See: "DESIGN_DOC.md" for the full write-up of architecture choices and trade-offs.
 
 What it does
